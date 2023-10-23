@@ -22,8 +22,8 @@ app.use('/', routes);
 // });
 
 mongoose.connect(
-  'mongodb://localhost:27017/zomato',
-  // 'mongodb+srv://kedar:connectionpassword@cluster0.ufsetpy.mongodb.net/zomato?retryWrites=true&w=majority',
+  // 'mongodb://localhost:27017/zomato',
+  'mongodb+srv://kedar:connectionpassword@cluster0.ufsetpy.mongodb.net/zomato?retryWrites=true&w=majority',
   {
     useNewUrlParser:true,
     useUnifiedTopology:true,
