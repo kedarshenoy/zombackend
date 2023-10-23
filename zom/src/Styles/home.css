@@ -1,0 +1,396 @@
+.logocontents{
+    position: absolute;
+    /* text-align: center;  */
+    /* z-index: 1; */
+    /* left: 40%; */
+    top: 22%;
+    width:100%;
+    /* margin: auto; */
+    text-align: center;
+    
+    
+}
+
+.imgmain{
+    position: relative;
+    z-index: 0;
+    margin: 07px;
+}
+
+#logo{
+    /* top: 105px; */
+/* left: 649px; */
+/* width: 68px; */
+height: 110px;
+width: 110px;
+text-align: center;
+font: normal normal 600 70px/106px Poppins;
+letter-spacing: 0px;
+color: #EB2929;
+opacity: 1;
+background: #FFFFFF;
+border-radius: 50%;
+margin: auto;
+}
+
+#logotext{
+    /* top: 60%; */
+    /* margin-left: 400px; */
+/* text-align: center; */
+/* position: absolute; */
+width: 758px;
+height: 51px;
+margin: auto;
+/* UI Properties */
+ 
+font: normal normal 600 36px/55px Poppins;
+color: #ffffff;
+/* opacity: 1; */
+}
+#select1{
+    /* position: absolute;
+    z-index: 1; */
+                /* top: 180px; */
+                display: inline-block;
+                top: 50%;
+                width:100%;
+                text-align: center;
+                /* left: 40%; */
+                margin-top: 20px;
+
+                /* width: 200px; */
+                height: 40px;
+                font-size: 15px;
+                /* background: #FFFFFF 0% 0% no-repeat padding-box; */
+
+}
+.select1{
+    display: inline-block;
+    /* width: 245px; */
+    /* height: 60px; */
+   
+}
+#dropdown1{
+    width: 245px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    font: normal normal normal 15px/23px Poppins;
+    border: none;
+border-radius: 2%;
+margin-bottom: 10px;
+padding-left: 5px;
+margin-right: 5px;
+
+}
+#searchbox1{
+    
+    width: 470px;
+    height: 40px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 15px/23px Poppins;
+    letter-spacing: 0px;
+    color: #070707;
+    opacity: 1;
+    border: none;
+    padding-left: 25px;
+    /* margin-left: 5px; */
+    border-radius: 0%;
+    
+    }
+
+
+    .quickheading{
+        width: 239px;
+height: 43px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 30px/46px Poppins;
+letter-spacing: 0px;
+color: #192F60;
+opacity: 1;
+margin-top: 20px;
+    }
+
+    .quicksubhead{
+        width: 331px;
+    height: 25px;
+    /* UI Properties */
+    /* text-align: left; */
+    font: normal normal normal 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1; 
+
+    }
+
+
+    .quickbox{
+/* margin: 8px; */
+height: 160px;
+position: relative;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+
+margin-bottom: 20px;
+    }
+
+    .quickbox>img{
+        width: 160px;
+height: 160px;
+/* UI Properties */
+opacity: 1;
+    }
+
+.reshead{
+    
+    
+        /* width: 88px; */
+        height: 25px;
+        /* UI Properties */
+        text-align: left;
+        font: normal normal 600 20px/27px Poppins;
+        letter-spacing: 0px;
+        color: #192F60;
+        opacity: 1;
+        margin-bottom: 12px;
+        /* position: absolute; */
+        /* top: 5%; */
+        /* left: 50%; */
+
+        
+}
+
+.resdesc{
+    /* position:absolute; */
+    /* width: 120px; */
+    height:70px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 15px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    /* top: 30%; */
+    
+    /* right:05%; */
+
+}
+.redescbox{
+    position:absolute;
+    left: 185px;
+    /* left: 55%; */
+    /* right:05%; */
+    top: 15%;
+    width: 120px;
+    padding-right: 5px;
+
+    
+    
+
+}
+
+
+
+
+
+
+
+
+.login{
+    position: absolute;
+    top: 3%;
+    right: 2%;
+}
+
+#btn1{
+    width: 43px;
+height: 23px;
+/* UI Properties */
+text-align: left;
+font: normal normal medium 16px/25px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+margin-right: 10px;
+box-shadow: 0px 2px 3px #0b050529;
+
+
+}
+
+#btn2{
+  
+/* width: 181px; */
+/* height: 46px; */
+color: #FFFFFF;
+
+/* UI Properties */
+border: 1px solid #FFFFFF;
+
+border-radius: 3px;
+padding: 2px;
+opacity: 1;
+box-shadow: 0px 3px 6px #e3939329;
+
+}
+
+
+.box{
+    background-color: #848282;
+    color: white;
+    /* border: #192F60; */
+    /* height: 50px; */
+    width: 100%;
+    margin-top: 150px;
+    /* padding-left: 150px; */
+}
+
+
+/* .enddesc{
+    display:inline-block
+}
+
+.secondcol{
+    padding-top:20px;
+} */
+
+/* .................................. */
+
+.suggestionsBox {
+    max-height: 60rem;
+    border-radius: 0.8rem;
+    position: absolute;
+    overflow: auto;
+    /* top: 50px; */
+    width: 480px;
+    /* left: 26px; */
+    visibility: visible;
+    opacity: 1;
+    border: 1px solid rgb(207, 207, 207);
+    box-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+    transition: opacity 0.25s ease 0s, top 0.25s ease 0s;
+    padding: 15px 0px;
+    background: white;
+    z-index: 100000;
+}
+
+.suggestionsBox li {
+    display: flex;
+    position: relative;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    box-shadow: none;
+}
+
+.suggestionsBox li:hover {
+    background: lightgray;
+    cursor: pointer;
+}
+
+.suggestionsBox li .suggestionImage img {
+    height: 60px;
+    width: 60px;
+    transform: none;
+    opacity: 1;
+    will-change: transform, opacity;
+    border-radius: 5px;
+    filter: unset;
+    transition: opacity 0.25s ease 0s, transform 0.25s ease 0s;
+}
+
+.suggestionText {
+    line-height: 1.5;
+    margin: 0px;
+    color: rgb(54, 54, 54);
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.signuologinlinks{
+    color: rgb(14, 1, 255);
+    cursor: pointer;
+    /* background-color: #848282; */
+} 
+/* above styles are of nav bar */
+
+.descboximg{
+    height: 30px;
+    margin-right: 8px;
+    margin-top: 10px;
+}
+
+
+
+/* //////////////////////////////////////////footer */
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+}
+
+.footer h4 {
+    color: #f0ad4e;
+}
+
+.footer p {
+    font-size: 14px;
+}
+
+/* .social-icons a {
+    color: #fff;
+    font-size: 20px;
+    margin-right: 15px;
+    transition: color 0.3s ease;
+} */
+
+/* .social-icons a:hover {
+    color: #f0ad4e;
+} */
+
+.footer-links li {
+    display: inline;
+    margin-right: 20px;
+    cursor: pointer;
+
+}
+
+.footer-links li:last-child {
+    margin-right: 0;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: #f0ad4e;
+}
+
+/* Back to Top Button */
+#back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    width: 50px;
+    height: 50px;
+    background: #333;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+#back-to-top:hover {
+    background: #f0ad4e;
+}
